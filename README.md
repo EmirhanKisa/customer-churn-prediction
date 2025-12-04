@@ -53,4 +53,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+   git clone [https://github.com/EmirhanKisa/customer-churn-prediction.git](https://github.com/EmirhanKisa/customer-churn-prediction.git)
