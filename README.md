@@ -46,11 +46,3 @@ Müşteri terk kararını en çok etkileyen faktörlerin sıralaması:
 Modelin kararlarını nasıl verdiğini gösteren SHAP analizi:
 
 ![SHAP Analizi](outputs/Shap.png)
-
-## ⚙️ Kurulum
-
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-1. Repoyu klonlayın:
-   ```bash
-   git clone [https://github.com/EmirhanKisa/customer-churn-prediction.git](https://github.com/EmirhanKisa/customer-churn-prediction.git)
